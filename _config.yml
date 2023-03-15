@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Computational/Thereotical Physicist
-email:
+email: brian.day7855@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Brian"
+  name   : "Brian Day"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hello! I'm Brian Day and I am physics PhD student at the Georgia
             Institute of Technology working on computational and theoretical
